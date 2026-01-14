@@ -2,11 +2,15 @@
 <br>
 <h3 align="center">A software developer student, learning frontend and backend</h3>
 
-- 🔭 I’m currently studing **full stack lenguajes**
+-  I’m currently studing **full stack lenguajes**
 
-- 🌱 I’m currently learning **React, linux distros, Typescript and bootstrap**
+-  I’m currently learning **React, linux distros, Typescript and bootstrap**
 
-- 🤝 I’m looking for help with **Javascript proyects**
+-  I’m looking for help with **Javascript proyects**
+
+-  Currently learning new skills with databases
+
+-  Growing up with teammates
 
 
 <p align="left">
