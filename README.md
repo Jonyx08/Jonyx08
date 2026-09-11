@@ -40,19 +40,10 @@
 ### Best Projects
 
 <p align="center">
-  <a href="https://github.com/yourusername/repo-one">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-one&theme=radical" alt="Project One"/>
+  <a href="https://github.com/Jonyx08/Login-Proyect">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonyx08&repo=Login-Proyect&theme=radical" alt="Login Proyect"/>
   </a>
-  <a href="https://github.com/yourusername/repo-two">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-two&theme=radical" alt="Project Two"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/yourusername/repo-three">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-three&theme=radical" alt="Project Three"/>
-  </a>
-  <a href="https://github.com/yourusername/repo-four">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-four&theme=radical" alt="Project Four"/>
+  <a href="https://github.com/Jonyx08/weater-main2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonyx08&repo=weater-main2&theme=radical" alt="Weather App"/>
   </a>
 </p>
