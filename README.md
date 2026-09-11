@@ -1,4 +1,4 @@
-<h1 align="center">Jonathan</h1>
+<h1 align="center">Hey there I'm Jonathan</h1>
 <h3 align="center">A software developer student, learning frontend and backend</h3>
 
 - I'm currently studying **full stack languages**
@@ -29,7 +29,7 @@
 ### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jonyx08&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak" height="165"/>
 </p>
 
