@@ -1,6 +1,10 @@
 <h1 align="center">Hey there I'm Jonathan</h1>
 <h3 align="center">A software developer student, learning frontend and backend</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Jonyx08&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
+</p>
+
 - I'm currently studying **full stack languages**
 - I'm currently learning **React, Linux distros, TypeScript and Bootstrap**
 - I'm looking for help with **JavaScript projects**
@@ -24,15 +28,10 @@
 
 <br>
 
-### GitHub Stats
+### GitHub Streak
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Jonyx08&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jonyx08&theme=radical" alt="GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jonyx08&layout=compact&theme=radical" alt="Top Languages" height="165"/>
 </p>
 
 <br>
@@ -45,5 +44,18 @@
   </a>
   <a href="https://github.com/Jonyx08/weater-main2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Jonyx08&repo=weater-main2&theme=radical" alt="Weather App"/>
+  </a>
+</p>
+
+<br>
+
+### Connect with Me
+
+<p align="center">
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
 </p>
