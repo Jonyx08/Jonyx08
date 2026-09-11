@@ -1,4 +1,4 @@
-<img width="1192" height="806" alt="image" src="https://github.com/user-attachments/assets/185d7b90-6dbe-4f21-a2a6-4fa76e695784" /><h1 align="center">Hey there I'm Jonathan</h1>
+<h1 align="center">Hey there I'm Jonathan</h1>
 <h3 align="center">A software developer student, learning frontend and backend</h3>
 
 - I'm currently studying **full stack languages**
