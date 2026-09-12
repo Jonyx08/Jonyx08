@@ -52,7 +52,7 @@
 ### Connect with Me
 
 <p align="center">
-  <a href="https://tiktok.com/@yourtiktok" target="_blank">
+  <a href="https://tiktok.com/@jon_dev" target="_blank">
     <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok"/>
   </a>
   <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
