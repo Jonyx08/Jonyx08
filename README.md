@@ -1,40 +1,36 @@
-<h1 align="center">Hi I'm Jonathan</h1>
-<h3 align="center">A software developer student, learning frontend and backend</h3>
+<h1 align="center">Hi, I'm Jonathan</h1>
+<p align="center">
+  Full-Stack Developer Student • React, Node.js & PostgreSQL
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Jonyx08&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-- I'm currently studying **full stack languages**
-- I'm currently learning **React, Linux distros, TypeScript and Bootstrap**
-- I'm looking for help with **JavaScript projects**
-- Currently learning new skills with **databases**
-- Growing up with teammates
+- Currently studying **full-stack web development**
+- Learning **React, TypeScript, PostgreSQL, Linux and Bootstrap**
+- Open to collaborate on **JavaScript / TypeScript projects**
+- Exploring **databases and REST APIs**
+- Growing alongside teammates
 
-<br>
+---
 
 ### Languages and Tools
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,postgres,mongodb,vite,pnpm,linux" alt="Languages and Tools" />
 </p>
 
-<br>
+---
 
 ### GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jonyx08&theme=radical&timezone=America/El_Salvador" alt="GitHub Streak" height="165"/>
+  <!-- Usa ./profile/streak.svg cuando configures el GitHub Action para repos privados -->
+  <img src="./profile/streak.svg" alt="GitHub Streak" height="165"/>
 </p>
 
-<br>
+---
 
 ### Best Projects
 
@@ -47,7 +43,7 @@
   </a>
 </p>
 
-<br>
+---
 
 ### Connect with Me
 
