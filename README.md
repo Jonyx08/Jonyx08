@@ -26,7 +26,7 @@
 ### GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Jonyx08&theme=radical&timezone=America/El_Salvador" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Jonyx08&theme=radical&timezone=America/El_Salvador&v=2" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
