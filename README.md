@@ -26,8 +26,7 @@
 ### GitHub Streak
 
 <p align="center">
-  <!-- Usa ./profile/streak.svg cuando configures el GitHub Action para repos privados -->
-  <img src="./profile/streak.svg" alt="GitHub Streak" height="165"/>
+  <img src="https://streak-stats.demolab.com/?user=Jonyx08&theme=radical&timezone=America/El_Salvador" alt="GitHub Streak" height="165"/>
 </p>
 
 ---
